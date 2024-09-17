@@ -18,15 +18,11 @@ A Redis clone implemented in Rust. Heads up, the code is old, but my Rust skills
 ### Compilers and Code Generation
 I have always been interested in compilers and code generation. Check out [Haanga](https://github.com/piotrsupport991/), a template engine I developed.
 
-## 💼 Experience
+## 🔧 Technologies & Tools
 
-### Another Bitcoin-Only Exchange
-- Designed an internal framework to synchronize data with external parties (mainly qualified custodians).
-- Integrated with more qualified custodians.
-- Enhanced code and infrastructure to support a bank-grade ledger and other services.
-- Improved the main website's performance.
-- Enhanced the hiring process by designing a code challenge and interviewing candidates.
-
+- **Languages:** HTML, CSS, JavaScript, TypeScript, C#, Golang, SQL.
+- **Frameworks:** Node.js, NestJS, React, Next.js, Nuxt.js, Django, Flask, ASP.NET Core.
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Redis.
 
 
 
