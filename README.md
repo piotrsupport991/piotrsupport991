@@ -24,6 +24,18 @@ I have always been interested in compilers and code generation. Check out [Haang
 - **Frameworks:** Node.js, NestJS, React, Next.js, Nuxt.js, Django, Flask, ASP.NET Core.
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Redis.
 
+## 📫 How to reach me
+
+- **GitHub:** [@piotrsupport991](https://github.com/piotrsupport991)
+- **Email:** piotrnowicki38383@gmail.com
+
+## ⚡ Fun Facts
+
+- I'm a fan of understanding how things work underneath abstractions.
+- I enjoy working on projects that challenge my knowledge and push the boundaries of my skills.
+- I'm always eager to learn new technologies and improve my craft.
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate on something exciting.
 
 
 ![E-pencil's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrsupport991&show_icons=true&theme=radical)
