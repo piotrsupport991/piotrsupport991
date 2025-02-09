@@ -1,4 +1,4 @@
-# Hi there, I'm E-pencil 👋
+# Hi there, I'm E-Magic 👋
 
 I'm a passionate software developer with a strong background in Rust, backend services, and systems programming. I enjoy diving deep into the inner workings of technologies and building robust and scalable solutions. Here's a bit about me and what I'm currently working on.
 
